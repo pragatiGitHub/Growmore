@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 Aug 2023 14:10:48 at https://www.bikham.com/accounting-finance +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bikham.com/accounting-finance -O1 "D:\Websites\bikham.com_accounting-finance" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:12:46	Error: 	"Gone" (410) at link js.hs-scripts.com/7306694.js (from https://www.bikham.com/accounting-finance)
+14:14:52	Warning: 	File not parsed, looks like binary: https://www.bikham.com/assets/fonts/ProximaNova-Regular.svg
+14:14:52	Warning: 	Warning: store application/octet-stream without scan: D:/Websites/bikham.com_accounting-finance/www.bikham.com/assets/fonts/ProximaNova-Regular.svg
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 39 seconds : 285 links scanned, 283 files written (262992946 bytes overall) [260649492 bytes received at 567863 bytes/sec], 3452309 bytes transferred using HTTP compression in 159 files, ratio 25%, 8.9 requests per connection
+(1 errors, 2 warnings, 0 messages)

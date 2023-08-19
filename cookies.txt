@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bikham.com	TRUE	/	FALSE	1999999999	PHPSESSID	a882c4601488df5ebe4b94b2145d425b
+
